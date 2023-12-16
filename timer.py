@@ -8,7 +8,7 @@ Created on Fri Jul 29 16:31:08 2016
 from sys import argv, stdout
 from time import sleep
 
-# Functions
+# Functions:
 def display_time(rtime):
     remaining_mins = int(rtime/60)
     remaining_secs = int(rtime%60)
