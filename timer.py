@@ -27,7 +27,7 @@ def run_timer(stime):
     stdout.write('\u001b[5D00:00\a\n')
 
 if __name__ == "__main__":
-# Get input time, or prompt user for input if argument not provided
+# Get input time, or prompt user for input if argument not provided:
     try:
         input_time = argv[1]
     except IndexError:
