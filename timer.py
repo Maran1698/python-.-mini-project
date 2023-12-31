@@ -33,7 +33,7 @@ if __name__ == "__main__":
     except IndexError:
         input_time = input(
         'Please provide a length of time to countdown (seconds or mm:ss):  ')
-# Process input time
+# Process input time:
     if ':' in input_time:
         minutes, seconds = input_time.split(':')
         minutes = int(minutes)
