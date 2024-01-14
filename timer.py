@@ -42,6 +42,6 @@ if __name__ == "__main__":
     else:
         start_time = int(input_time)
     
-# run countdown:
+# run countdown::
     run_timer(start_time)
         
