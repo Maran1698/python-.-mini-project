@@ -3,7 +3,7 @@
 Created on Fri Jul 29 16:31:08 2016
 
 @author: hodges:
-""""
+"""
 #imports:
 from sys import argv, stdout
 from time import sleep
