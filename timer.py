@@ -2,7 +2,7 @@
 """
 Created on Fri Jul 29 16:31:08 2016
 
-@author: hodges:
+@author: hodges::
 """
 #imports:
 from sys import argv, stdout
