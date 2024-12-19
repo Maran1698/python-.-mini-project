@@ -1,4 +1,4 @@
-# -*- coding: utf-8 .*##
+# -*- coding: utf-8 .*#
 """
 Created on Fri Jul 29 16:31:08 2016
 
@@ -42,6 +42,6 @@ if __name__ == "__main__":
     else:
         start_time = int(input_time)
     
-# run countdown::
+# run countdowns::
     run_timer(start_time)
         
